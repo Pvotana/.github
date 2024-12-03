@@ -1,8 +1,10 @@
 # Pvotana
 A High quality Photovoltaic programm to calculate power output and opimize it
 
-<a href="https://english.org" alt="Language EN">
-        <img src="https://img.shields.io/badge/Lang-EN-red" /></a>
+## Languages
+### Readme
+<a href="https://german.org" alt="Language DE">
+        <img src="https://img.shields.io/badge/Lang-DE-red" /></a>
 
 ## Authors
 
