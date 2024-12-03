@@ -1,11 +1,11 @@
 # Pvotana
-A High quality Photovoltaic programm to calculate power output and opimize it
+Ein hochwertiges Photovoltaikprogramm zur Berechnung der Leistungsabgabe und zur Optimierung
 
-## Languages
+## Sprachen
 ### Readme
-<a href="https://german.org" alt="Language DE">
-        <img src="https://img.shields.io/badge/Lang-DE-red" /></a>
+<a href="https://github.com/Pvotana" alt="Language EN">
+        <img src="https://img.shields.io/badge/Lang-EN-red" /></a>
 
-## Authors
+## Autoren
 
 - [@constt](https://www.github.com/constt)
